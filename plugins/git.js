@@ -25,10 +25,10 @@ Sana.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message,
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `◄━⦁💝 𝐒𝐀𝐍𝐀 𝐌𝐖𝐎𝐋💝⦁━►
 
 
-*Oᴡɴᴇʀ number Aʙᴜ* :https://wa.me/917025868709.
+*Oᴡɴᴇʀ number Aʙᴜ* :https://wa.me/917025994178.
             
 
-*Oᴡɴᴇʀ number Sᴀɴᴀ* :https://wa.me/919605385305.
+*Oᴡɴᴇʀ number Sᴀɴᴀ* :https://wa.me/917025994178.
 
 
 *Wʜᴀᴛsᴀᴘᴘ Gʀᴏᴜᴘ Sᴀɴᴀ Mᴡᴏʟ* :https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk_.

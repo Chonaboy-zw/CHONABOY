@@ -36,13 +36,9 @@
 <div>
 <a href="https://replit.com/@Arx-Abu/ABU-SER-QR?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Ajx-Abu/Sana-Mwol"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
+<a href="https://gist.github.com/ABU-SAR/21f449a5d201ce8371c32575661f802a"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
    <br>
 <div>
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://gist.githubusercontent.com/Ajx-Abu/c68a8ccac838005277a28d658469162a)   
- 
-  </div>
 <a href="https://abuser1.yolasite.com/"><img src="/language/web.png" alt="Visit Website" height="112" width="300" border="0"></a>
 
 ##

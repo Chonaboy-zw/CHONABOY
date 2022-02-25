@@ -138,12 +138,12 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('💖Sana is Working💖 ' + config.WORKTYPE + ' new 🍃'));
+            chalk.green.bold('💖Chona Boy is Working💖 ' + config.WORKTYPE + ' new 🍃'));
           if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
                 if (commits.total === 0) {
-                    await conn.sendMessage(conn.user.jid, fs.readFileSync("./photo/sana.png"), MessageType.image, { caption: `*💙ʜᴇʏ ʙʀᴏ sᴀɴᴀ ᴍᴡᴏʟ ɪs  ᴡᴏʀᴋɪɴɢ ` + config.WORKTYPE + ` ❤️* \n\n*💝ᴛʜᴀɴᴋʏᴏᴜ ғᴏʀ ᴜsɪɴɢ sᴀɴᴀ ᴍᴡᴏʟ ᴀɴᴅ ᴀʙᴜ sᴇʀ ʙᴏᴛ💝* \n\n*💝ᴘʟᴇᴀsᴇ ɴɪɴɢᴀʟᴜᴅᴇ sᴀᴘᴘᴏʀᴛ ᴠᴇɴᴀᴍ 😥ɴɪɴɢᴀʟᴏᴋᴋᴇ ᴏʟʟᴜ ɴᴀᴍᴍᴀᴋ💝** \n\n*😍ᴀᴘᴘᴏ ᴇɴɢᴀɴᴇ ᴘᴏʟɪ ᴀʟʟᴇ sᴀɴᴀ ᴍᴡᴏʟ ғᴇᴇᴅ ʙᴀᴄᴋ sᴇɴᴛ ᴄʜᴀʏʏɪᴛᴏ ᴀʙᴜᴠɪɴᴛᴇ ᴡʜᴀᴛsᴀᴘᴏɪʟᴇᴋ😍*`});
+                    await conn.sendMessage(conn.user.jid, fs.readFileSync("./photo/sana.png"), MessageType.image, { caption: `*💙ʜᴇʏ ʙʀᴏ ᴄʜᴏɴᴀ ʙᴏʏ ɪs  ᴡᴏʀᴋɪɴɢ ` + config.WORKTYPE + ` ❤️* \n\n*💝ᴛʜᴀɴᴋʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴄʜᴏɴᴀ ʙᴏʏ ᴀɴᴅ ᴀʙᴜ sᴇʀ ʙᴏᴛ💝* \n\n*💝ᴘʟᴇᴀsᴇ ɴɪɴɢᴀʟᴜᴅᴇ sᴀᴘᴘᴏʀᴛ ᴠᴇɴᴀᴍ 😥ɴɪɴɢᴀʟᴏᴋᴋᴇ ᴏʟʟᴜ ɴᴀᴍᴍᴀᴋ💝** \n\n*😍ᴀᴘᴘᴏ ᴇɴɢᴀɴᴇ ᴘᴏʟɪ ᴀʟʟᴇ sᴀɴᴀ ᴍᴡᴏʟ ғᴇᴇᴅ ʙᴀᴄᴋ sᴇɴᴛ ᴄʜᴀʏʏɪᴛᴏ ᴀʙᴜᴠɪɴᴛᴇ ᴡʜᴀᴛsᴀᴘᴏɪʟᴇᴋ😍*`});
                 } else {
                     var degisiklikler = Lang.NEW_UPDATE;
                     commits['all'].map(
@@ -336,8 +336,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ ❤ SANA MWOL️💙 ~______~*' +
-                                    '\n*SANA IS  ERROR🔰' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ ❤ ᴄʜᴏɴᴀ ʙᴏʏ💙 ~______~*' +
+                                    '\n*💫ᴄʜᴏɴᴀ ʙᴏʏ ʙᴏᴛ🔰' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }

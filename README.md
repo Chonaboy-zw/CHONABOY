@@ -1,20 +1,20 @@
 <div align="center">
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/W6iMjZ5.png>
+<img src=https://i.imgur.com/yqsnfYd.png>
 </p>
  </a>
 </p>
 
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐒𝐀𝐍𝐀+𝐌𝐖𝐎𝐋+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝐀𝐁𝐔+𝘼𝙉𝘿+𝐒𝐀𝐍𝐀;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐂𝐇𝐎𝐍𝐀+𝐁𝐎𝐘+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝐀𝐁𝐔+𝘼𝙉𝘿+𝐒𝐀𝐍𝐀;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
 
  </a>
 </p>
 <div align="center">
   <p align="center">
-<img src="https://i.imgur.com/SR8Y0SK.jpeg" alt="GIF" width="310" height="290"/>
+<img src="https://i.imgur.com/LNRGHyw.jpg" alt="GIF" width="310" height="290"/>
 </p>
 
   <p align="center">
@@ -22,7 +22,7 @@
 </p>
 </div>
 <p align="center">
-𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐂𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 𝐒𝐀𝐍𝐀 𝐀𝐍𝐃 𝐀𝐁𝐔
+𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐂𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 𝐀𝐁𝐔 𝐀𝐍𝐃 𝐂𝐇𝐎𝐍𝐀𝐁𝐎𝐘
     <br>
        | © |
         Reserved |
